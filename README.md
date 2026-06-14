@@ -1,6 +1,6 @@
 # CrossGeneEx
 
-**Cross-species L2/3 IT gene expression explorer** — an interactive tool for visualising and comparing gene expression across Human, Rhesus macaque (NHP), and Mouse layer 2/3 intratelencephalic (IT) neurons from single-nucleus RNA-seq data.
+**Cross-species L2/3 IT gene expression explorer** — an interactive GUI tool for visualising and comparing gene expression across Human, Rhesus macaque (NHP), and Mouse layer 2/3 intratelencephalic (IT) neurons from single-nucleus RNA-seq data.
 
 ---
 
