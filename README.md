@@ -66,8 +66,6 @@ python app_gui.py
 streamlit run app.py
 ```
 
-Opens at `http://localhost:8501` in your browser.
-
 ---
 
 ## Data
